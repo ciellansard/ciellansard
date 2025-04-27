@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](https://github.com/user-attachments/assets/b648f31d-6a9e-46cd-b619-66fb25055de1)
+![image](https://github.com/user-attachments/assets/b648f31d-6a9e-46cd-b619-66fb25055de1) <br>
 (adding this image to see where it appears)
 <!--
 **ciellansard/ciellansard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
